@@ -1,0 +1,33 @@
+.pagedos {
+    background:  #353531;
+    background-size: cover;
+    background position: center;
+    color: white;
+    border-top: outset #353531;
+}
+
+
+.pagedos h2{
+	    text-align: center;
+}
+
+.exp {
+	margin-left: 25%;
+}
+
+.exp a {
+
+	margin-left: auto;
+    margin-right: auto;
+}
+
+#moreexp {
+	width: 30%;
+	background-color: white;
+	color: #353531;
+}
+#moreexp:hover {
+	background-color: #01adc3;
+
+
+}

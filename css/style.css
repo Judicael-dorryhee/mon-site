@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,500&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/chapeau.css");
+@import url("components/pageuno.css");
+@import url("components/timeline.css");
+@import url("components/card.css");
+@import url("components/pagedos.css");
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+	font-weight: lighter;
+
+}
+h1 {
+	font-family: 'Lato', sans-serif;
+	font-weight: lighter;
+}
+h2, {
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+
+}
+h3, h4 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+
+}
+
+a {
+	text-decoration: none;	
+}
+
+.list-inline{
+	line-height: 150%;
+	list-style: none;
+	width: 100%;
+}
+
+.list-inline img {
+	width: 50px;
+	height: 50px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list-inline h2 {
+	text-align: center;
+}
+
+.RStest {
+	margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+
+}
+
+.RS {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.RS li{
+	display:inline;
+	padding: 10px;
+}
+
+.RS i{
+font-size: 30px;
+color: white;
+}
+.RS i:hover {
+	color: #01adc3;
+}
+
+.avatar{
+
+	margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+
+.container img {
+	max-width: 100%;
+	height: auto;
+	margin-bottom: 20px;
+	margin-top: 25px;
+}
+

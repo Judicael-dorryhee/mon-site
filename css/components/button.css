@@ -1,0 +1,20 @@
+.btn-colored {
+    background-color: #353531;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 4px;
+    font-weight: bold;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	width: 100px;
+	margin-left: auto;
+    margin-right: auto;
+    transform: color 0.3s ease;
+
+}
+
+.btn-colored:hover {
+	background-color: #01adc3;
+	color: white;
+}
+
